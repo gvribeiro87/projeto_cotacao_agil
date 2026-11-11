@@ -38,4 +38,4 @@ Se oferecermos uma interface rápida onde o profissional cadastra a lista de mat
 ---
 
 ## 🔗 6. Aplicação Publicada
-👉 **Acesse a aplicação no ar:** [Link da sua aplicação publicada no Lovable/Vercel]
+👉 **Acesse a aplicação no ar: https://cotacao-agil-materiais.lovable.app
